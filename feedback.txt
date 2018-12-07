@@ -1,0 +1,30 @@
+Functionality
+- Able to find the alternatives for words but not all for the sentences.
+- Sometimes removed digits as well incorrectly
+
+Extensions
+- No extensions attempted
+
+Design & implementation
+- Try to compare with more ands or use arrays instead of nested ifs
+- Should try to ensure that only consonants are matched; check not vowel and between a-z
+- Some functions very similar; could be combined but return an object instead with all the required information
+- Functions could be decomposed more; each function to achieve only one small thing
+- Read the Java 8 API more on the String manipulation methods to simplify some of your code
+- Think and plan more for what your code should do and refactor your code to make it cleaner
+
+Code quality
+- Try to write more JavaDocs and comments for the methods
+- Try to format your code better; note the style checker output of the autochecker
+
+Autochecking
+- You passed 21 out of 28 tests
+
+Testing
+- No evidence of additional testing
+
+Report
+- None included
+
+Overall comments (Summary)
+- A coding practical containing code achieving most of the required functionality and of acceptable standard.
